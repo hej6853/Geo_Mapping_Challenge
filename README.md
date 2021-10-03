@@ -1,6 +1,6 @@
-# Leaflet Homework - Visualizing Data with Leaflet
+# Leaflet Challenge - Visualizing Data with Leaflet
 
-
+Demo: https://hej6853.github.io/Leaflet_Challenge/
 
 ![1-Logo](Images/1-Logo.png)
 
